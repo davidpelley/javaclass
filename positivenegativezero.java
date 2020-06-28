@@ -3,6 +3,7 @@ public class positivenegativezero{
 		checkNumber(5);
 		checkNumber(-10);
 		checkNumber(0);
+		
 	
 	}
 	public static void checkNumber(int number){
@@ -15,6 +16,7 @@ public class positivenegativezero{
 		}
 		else 
 			System.out.println("Zero");
+		
 	}
 	
 }
